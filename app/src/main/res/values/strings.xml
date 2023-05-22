@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mayan Riches</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">LOADING....</string>
+    <string name="sing_up_to">SIGN UP TO</string>
+    <string name="save_your">SAVE YOUR</string>
+    <string name="results">RESULTS</string>
+    <string name="play_as_anonymous">PLAY AS ANONYMOUS</string>
+    <string name="sing_up_via_email">SING UP VIA EMAIL</string>
+    <string name="sign_up">Sign up</string>
+    <string name="settings">SETTINGS</string>
+    <string name="music">MUSIC</string>
+    <string name="vibration">VIBRATION</string>
+    <string name="game_1">GAME 1</string>
+    <string name="game_2">GAME 2</string>
+    <string name="privacy">PRIVACY</string>
+    <string name="spin">Spin</string>
+    <string name="balance_0000">BALANCE:0000</string>
+    <string name="_00000">00000</string>
+    <string name="login">Введите ваш логин или номер</string>
+</resources>
